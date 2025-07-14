@@ -1,5 +1,5 @@
 {
-  "name": "bikeclub/bikeclub_civicrm",
+  "name": "bikeclub/bikeclub_civicrm_config",
   "description": "Install CiviCRM-related Drupal modules, configuration, and webforms.",
   "keywords": ["recipe", "bikeclub", "civicrm"],
   "type": "drupal-recipe",
