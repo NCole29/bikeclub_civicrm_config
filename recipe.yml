@@ -1,6 +1,8 @@
 name: 'Bikeclub CiviCRM configuration'
 description: 'Provides CiviCRM-related modules, configuration, views, and webforms.'
 type: 'Administration' 
+recipes:
+  - bikeclub_civicrm
 install:
   - datetime
   - options
