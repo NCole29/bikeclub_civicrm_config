@@ -16,7 +16,7 @@
     "drupal/civicrm_member_roles": "^1.0@beta",
     "drupal/csv_serialization": "^4.0",
     "drupal/honeypot": "^2.0",
-	"drupal/webform_civicrm": "6.3.x-dev@dev",
+	"drupal/webform_civicrm": "^6.3",
     "drupal/webform_views": "^5.5"
   },
   "version": "1.0.1"
